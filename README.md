@@ -2,7 +2,9 @@
 A good starting point for flask projects with virtualenv.
 
 To get started:
-- clone this repository
+- create a new repository `git init foo`
+- `cd foo`
+- `git pull git@github.com:asam-hack24/flask-clean-start.git`
 - install python 3.5
 - install pip
 - `virtualenv -p /usr/bin/python3.5 flask`
