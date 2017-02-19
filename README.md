@@ -8,6 +8,7 @@ To get started:
 - install python 3.5 and pip if not already installed
 - `virtualenv -p /usr/bin/python3.5 flask`
 - `source flask/bin/activate`
+- Add other dependencies to `requirements.txt` and replace the `LICENSE` file if necessary
 - `pip install -r requirements.txt`
 
 Don't forget to `deactivate` the virtualenv when you are done.
